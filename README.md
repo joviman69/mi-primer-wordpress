@@ -1,2 +1,2 @@
 # mi-primer-wordpress
-wordpress
+dokerfile para wordpress
